@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "PlottingData1", "PlottingData1\PlottingData1.rxproj", "{439937C1-88BA-49AD-9E1C-93BBC8CD5932}"
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "PlottingData1", "PlottingData1.rxproj", "{439937C1-88BA-49AD-9E1C-93BBC8CD5932}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
